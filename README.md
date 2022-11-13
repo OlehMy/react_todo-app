@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
-
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+- Implemented the ability to rename a todo title on double click, add new Todo, delete, also filter buttons
+- Technologies used: React, JS, TS, SCSS, BEM, classnames, react-transition-group
+- [DEMO LINK](https://OlehMy.github.io/react_todo-app/)
